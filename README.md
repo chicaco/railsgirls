@@ -7,3 +7,6 @@ Rails Girls Tokyo 11th の練習リポジトリ
 * TEST(1)
 
 * TEST(2)
+
+* TEST(3)
+
