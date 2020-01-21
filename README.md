@@ -8,5 +8,5 @@ Rails Girls Tokyo 11th の練習リポジトリ
 
 * TEST(2)
 
-* TEST(3) 2020/01/21
+* TEST(3-1) 2020/01/21
 
